@@ -6,4 +6,4 @@ Olá Pessoal, eu sou Fabiano Oliveira, estudante de Análise e Desenvolvimento d
 - 💬 Pergunte-me sobre infraestrutura de redes de computadores
 - 📫 Como me encontrar: fabiano-oliveira@hotmail.com
 - 😄 Pronomes: ele/ele
-- ⚡ Curiosidade: gosto de desafios
+- ⚡ Curiosidade: procurar desafios
