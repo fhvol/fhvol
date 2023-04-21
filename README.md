@@ -1,4 +1,4 @@
-Olá Pessoal, Eu sou Fabiano Oliveira, estudante de Análise e Desenvolvimento de Sistemas.
+Olá Pessoal, eu sou Fabiano Oliveira, estudante de Análise e Desenvolvimento de Sistemas.
 
 - 🔭 Atualmente trabalho na área de infraestrutura de redes de computadores
 - 🌱 Atualmente estou aprendendo análise e desenvolvimento de sistemas
